@@ -1,0 +1,4 @@
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTestContent\obj\x86\Debug\SpriteTestContent.contentprojResolveAssemblyReference.cache
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTestContent\obj\x86\Debug\Music.xml
+G:\Game Development\SpriteTest\SpriteTest\SpriteTestContent\obj\x86\Debug\SpriteTestContent.contentprojResolveAssemblyReference.cache
+G:\Game Development\SpriteTest\SpriteTest\SpriteTestContent\obj\x86\Debug\Music.xml

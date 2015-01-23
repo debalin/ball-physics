@@ -1,0 +1,34 @@
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\obj\x86\Debug\SpriteTest.csprojResolveAssemblyReference.cache
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\Music.xgs
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\Wave Bank.xwb
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\Sound Bank.xsb
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\andy.xnb
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Bouncing Balls Demo.exe.manifest
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Bouncing Balls Demo.application
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Bouncing Balls Demo.exe
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Bouncing Balls Demo.pdb
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\obj\x86\Debug\Bouncing Balls Demo.exe.manifest
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\obj\x86\Debug\Bouncing Balls Demo.application
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\obj\x86\Debug\Bouncing Balls Demo.exe
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\obj\x86\Debug\Bouncing Balls Demo.pdb
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\room2.xnb
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\ball1.xnb
+E:\Wicked Algo\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\ball2.xnb
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\andy.xnb
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\room2.xnb
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\ball1.xnb
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\ball2.xnb
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\Music.xgs
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\Wave Bank.xwb
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Content\Sound Bank.xsb
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Bouncing Balls Demo.exe.manifest
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Bouncing Balls Demo.application
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Bouncing Balls Demo.exe
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\bin\x86\Debug\Bouncing Balls Demo.pdb
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\obj\x86\Debug\SpriteTest.csprojResolveAssemblyReference.cache
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\obj\x86\Debug\Bouncing Balls Demo.exe.manifest
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\obj\x86\Debug\Bouncing Balls Demo.application
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\obj\x86\Debug\Bouncing Balls Demo.exe
+G:\Game Development\SpriteTest\SpriteTest\SpriteTest\obj\x86\Debug\Bouncing Balls Demo.pdb
